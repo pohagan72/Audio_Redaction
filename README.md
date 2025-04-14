@@ -1,6 +1,6 @@
 # Audio Redaction Tool
 
-A streamlined and powerful tool that automatically redacts sensitive words from your audio recordings by replacing them with a beep tone. Leveraging the state-of-the-art [Stable-Whisper](https://github.com/jianfch/stable-ts/tree/main) transcription engine in SRT mode, this application pinpoints the exact timestamps for each word, then seamlessly overlays a beep sound over the sensitive segments.
+A streamlined and powerful tool that automatically redacts sensitive words from your audio recordings by replacing them with a beep tone. Leveraging the state-of-the-art [Stable-Whisper](https://github.com/jianfch/stable-ts/tree/main) transcription engine in SRT mode, this application pinpoints the exact timestamps for each word, then overlays a beep sound over the sensitive segments.
 
 ---
 
